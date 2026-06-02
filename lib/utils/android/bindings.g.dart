@@ -187,7 +187,7 @@ final class $Runnable$Type$ extends jni$_.JType<Runnable> {
 /// from: `tv.acfundanmaku.video.AndroidHelper`
 extension type AndroidHelper._(jni$_.JObject _$this) implements jni$_.JObject {
   static final _class = jni$_.JClass.forName(
-    r'com/example/piliplus/AndroidHelper',
+    r'tv/acfundanmaku/video/AndroidHelper',
   );
 
   /// The type which includes information such as the signature of this class.
@@ -673,14 +673,14 @@ final class $AndroidHelper$Type$ extends jni$_.JType<AndroidHelper> {
 
   @jni$_.internal
   @core$_.override
-  String get signature => r'Lcom/example/piliplus/AndroidHelper;';
+  String get signature => r'Ltv/acfundanmaku/video/AndroidHelper;';
 }
 
 /// from: `tv.acfundanmaku.video.AndroidHelper$ToDart`
 extension type AndroidHelper$ToDart._(jni$_.JObject _$this)
     implements jni$_.JObject {
   static final _class = jni$_.JClass.forName(
-    r'com/example/piliplus/AndroidHelper$ToDart',
+    r'tv/acfundanmaku/video/AndroidHelper$ToDart',
   );
 
   /// The type which includes information such as the signature of this class.
@@ -725,5 +725,5 @@ final class $AndroidHelper$ToDart$Type$
 
   @jni$_.internal
   @core$_.override
-  String get signature => r'Lcom/example/piliplus/AndroidHelper$ToDart;';
+  String get signature => r'Ltv/acfundanmaku/video/AndroidHelper$ToDart;';
 }
