@@ -1,4 +1,4 @@
-package com.example.piliplus;
+package tv.acfundanmaku.video;
 
 import android.app.Activity;
 import android.app.PendingIntent;

@@ -15,7 +15,7 @@ void main(List<String> args) {
       androidSdkConfig: AndroidSdkConfig(addGradleDeps: true),
       sourcePath: [packageRoot.resolve('android/app/src/main/java')],
       classes: [
-        'com.example.piliplus.AndroidHelper',
+        'tv.acfundanmaku.video.AndroidHelper',
         'java.lang.Runnable',
       ],
     ),

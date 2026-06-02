@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.piliplus;
+package tv.acfundanmaku.video;
 
 import android.app.PendingIntent;
 import android.content.ComponentName;
