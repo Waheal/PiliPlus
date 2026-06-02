@@ -1,4 +1,4 @@
-package tv.acfundanmaku.video
+package com.example.piliplus
 
 import android.content.Intent
 import android.content.res.Configuration
